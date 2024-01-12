@@ -1,0 +1,13 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: var(--bgSoft);
+    color: var(--textSoft);
+}
